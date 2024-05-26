@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="6.267" tests="3" errors="0" skipped="2" failures="1">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.10+7"/>
+    <property name="sun.boot.library.path" value="C:\Users\RUTURAJ PATIL\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\python project\JiraIntegrationWithSelenium-master\JiraIntegrationWithSelenium-master"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\python project\JiraIntegrationWithSelenium-master\JiraIntegrationWithSelenium-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.10+7"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\RUTURA~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Users\RUTURAJ PATIL\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2047478170468044509.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Users\RUTURAJ PATIL\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/RUTURAJ PATIL/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin/server;C:/Users/RUTURAJ PATIL/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-21\bin;C:\Users\RUTURAJ PATIL\AppData\Local\Programs\Python\Launcher\;C:\Users\RUTURAJ PATIL\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.3\bin;;C:\Windows\System32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\RUTURAJ PATIL"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="RUTURAJ PATIL"/>
+    <property name="java.class.path" value="C:\Users\RUTURAJ PATIL\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-classworlds-2.7.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always test"/>
+    <property name="java.home" value="C:\Users\RUTURAJ PATIL\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="maven.home" value="C:\python project\JiraIntegrationWithSelenium-master\JiraIntegrationWithSelenium-master\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Temurin-17.0.10+7"/>
+    <property name="m2e.build.project.data.socket.port" value="51354"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="setUpTest" classname="com.MyTests.LoginTest" time="6.105">
+    <failure message="session not created: This version of ChromeDriver only supports Chrome version 114&#10;Current browser version is 124.0.6367.208 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;LAPTOP-2L9MTON8&apos;, ip: &apos;192.168.1.46&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.10&apos;&#10;Driver info: driver.version: ChromeDriver&#10;remote stacktrace: Backtrace:&#10;	GetHandleVerifier [0x00BDA813+48355]&#10;	(No symbol) [0x00B6C4B1]&#10;	(No symbol) [0x00A75358]&#10;	(No symbol) [0x00A961AC]&#10;	(No symbol) [0x00A91EF3]&#10;	(No symbol) [0x00A90579]&#10;	(No symbol) [0x00AC0C55]&#10;	(No symbol) [0x00AC093C]&#10;	(No symbol) [0x00ABA536]&#10;	(No symbol) [0x00A982DC]&#10;	(No symbol) [0x00A993DD]&#10;	GetHandleVerifier [0x00E3AABD+2539405]&#10;	GetHandleVerifier [0x00E7A78F+2800735]&#10;	GetHandleVerifier [0x00E7456C+2775612]&#10;	GetHandleVerifier [0x00C651E0+616112]&#10;	(No symbol) [0x00B75F8C]&#10;	(No symbol) [0x00B72328]&#10;	(No symbol) [0x00B7240B]&#10;	(No symbol) [0x00B64FF7]&#10;	BaseThreadInitThunk [0x766F7BA9+25]&#10;	RtlInitializeExceptionChain [0x7769BE3B+107]&#10;	RtlClearBits [0x7769BDBF+191]&#10;" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 124.0.6367.208 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-2L9MTON8', ip: '192.168.1.46', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x00BDA813+48355]
+	(No symbol) [0x00B6C4B1]
+	(No symbol) [0x00A75358]
+	(No symbol) [0x00A961AC]
+	(No symbol) [0x00A91EF3]
+	(No symbol) [0x00A90579]
+	(No symbol) [0x00AC0C55]
+	(No symbol) [0x00AC093C]
+	(No symbol) [0x00ABA536]
+	(No symbol) [0x00A982DC]
+	(No symbol) [0x00A993DD]
+	GetHandleVerifier [0x00E3AABD+2539405]
+	GetHandleVerifier [0x00E7A78F+2800735]
+	GetHandleVerifier [0x00E7456C+2775612]
+	GetHandleVerifier [0x00C651E0+616112]
+	(No symbol) [0x00B75F8C]
+	(No symbol) [0x00B72328]
+	(No symbol) [0x00B7240B]
+	(No symbol) [0x00B64FF7]
+	BaseThreadInitThunk [0x766F7BA9+25]
+	RtlInitializeExceptionChain [0x7769BE3B+107]
+	RtlClearBits [0x7769BDBF+191]
+
+</failure>
+    <system-out><![CDATA[...
+... TestNG 6.14.3 by Cédric Beust (cedric@beust.com)
+...
+
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 42429
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+  </testcase>
+  <testcase name="verifyLoginPageTitleTest" classname="com.MyTests.LoginTest" time="0">
+    <skipped message="session not created: This version of ChromeDriver only supports Chrome version 114&#10;Current browser version is 124.0.6367.208 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;LAPTOP-2L9MTON8&apos;, ip: &apos;192.168.1.46&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.10&apos;&#10;Driver info: driver.version: ChromeDriver&#10;remote stacktrace: Backtrace:&#10;	GetHandleVerifier [0x00BDA813+48355]&#10;	(No symbol) [0x00B6C4B1]&#10;	(No symbol) [0x00A75358]&#10;	(No symbol) [0x00A961AC]&#10;	(No symbol) [0x00A91EF3]&#10;	(No symbol) [0x00A90579]&#10;	(No symbol) [0x00AC0C55]&#10;	(No symbol) [0x00AC093C]&#10;	(No symbol) [0x00ABA536]&#10;	(No symbol) [0x00A982DC]&#10;	(No symbol) [0x00A993DD]&#10;	GetHandleVerifier [0x00E3AABD+2539405]&#10;	GetHandleVerifier [0x00E7A78F+2800735]&#10;	GetHandleVerifier [0x00E7456C+2775612]&#10;	GetHandleVerifier [0x00C651E0+616112]&#10;	(No symbol) [0x00B75F8C]&#10;	(No symbol) [0x00B72328]&#10;	(No symbol) [0x00B7240B]&#10;	(No symbol) [0x00B64FF7]&#10;	BaseThreadInitThunk [0x766F7BA9+25]&#10;	RtlInitializeExceptionChain [0x7769BE3B+107]&#10;	RtlClearBits [0x7769BDBF+191]&#10;"/>
+  </testcase>
+  <testcase name="tearDown" classname="com.MyTests.LoginTest" time="0">
+    <skipped/>
+  </testcase>
+</testsuite>

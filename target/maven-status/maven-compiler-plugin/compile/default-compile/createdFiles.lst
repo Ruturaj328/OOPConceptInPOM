@@ -1,0 +1,7 @@
+com\mypages\BasePage.class
+com\mypages\Page.class
+com\util\JiraServiceProvider.class
+com\mypages\LoginPage.class
+com\listeners\TestJiraListener.class
+com\mypages\HomePage.class
+com\util\JiraPolicy.class
